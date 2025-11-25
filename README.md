@@ -52,6 +52,19 @@ AWS • Terraform • Docker • Kubernetes • Jenkins • Linux • GitHub Act
 
 ---
 
+---
+
+## 💻 100 Days of DevOps (In Progress)
+
+I’m currently working on the **100 Days of DevOps** challenge — strengthening my skills across Linux, Git, CI/CD, Docker, Kubernetes, Terraform, AWS, and Monitoring.
+
+- ✅ **Completed:** 78 / 100 tasks  
+- 📂 **Track my progress here:** [100 Days of DevOps Repo](https://github.com/aadi2212/kodekloud-engineer-program)  
+
+---
+
+
+
 ## 🎯 About Me
 Highly motivated Cloud & DevOps Engineer passionate about scalable infrastructure, automation, and cloud-native technologies. Strong foundation in AWS, Kubernetes, Terraform, CI/CD pipelines, and cloud security.
 

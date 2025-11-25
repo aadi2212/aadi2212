@@ -48,7 +48,7 @@ AWS • Terraform • Docker • Kubernetes • Jenkins • Linux • GitHub Act
 
 ## 📫 Reach Me At
 - **LinkedIn:** https://linkedin.com/in/aaditya-ranadive  
-- **Email:** *your-email-here*
+- **Email:** *aadi.ranadive@gmail.com*
 
 ---
 

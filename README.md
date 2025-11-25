@@ -1,55 +1,61 @@
-<!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Aaditya Ranadive</h1>
+<h1 align="center">Hi, I'm Aaditya Ranadive</h1>
 <h3 align="center">Cloud & DevOps Engineer | AWS Certified Solutions Architect – Associate</h3>
 
 ---
 
-## 🏆 Certifications
-- 🟦 **AWS Certified Solutions Architect – Associate**
-- 🛠️ DevOps & Cloud Practitioner
+## 🚀 Certifications
+- **AWS Certified Solutions Architect – Associate**
+- **DevOps & Cloud Practitioner**
 
 ---
 
-## 🌱 Currently Learning
+## 📚 Currently Learning
 - Kubernetes (CKA Track)
 - Terraform Advanced Modules
 - CI/CD Pipelines
-- Cloud Security Best Practices
+- Cloud Security & Best Practices
 
 ---
 
-## 💬 Ask Me About
+## 💡 Ask Me About
 AWS • Terraform • Docker • Kubernetes • Jenkins • Linux • GitHub Actions • Python • Monitoring (Grafana/Prometheus)
 
 ---
 
-## 📫 Reach Me At
-📧 **aadi.ranadive@gmail.com.com**  
-📎 LinkedIn: *www.linkedin.com/in/aaditya-ranadive*  
+## 🧰 Tools & Technologies
 
----
-
-## 🛠️ Languages & Tools
 <p align="left">
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/> </a>
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/> </a>
-<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="45" />
 </p>
 
 ---
 
-## 🚀 Future Goals
-- Master Multi-Cloud Architecture  
-- Advance in Kubernetes (CKA → CKAD → CKS)  
-- Build Enterprise-grade CI/CD Systems  
-- Learn Cloud-Native AI Workloads  
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=aadi2212&show_icons=true&theme=default&hide_border=true" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=aadi2212&theme=default&hide_border=true" />
+</p>
 
 ---
 
-## 🤝 Let's Connect & Collaborate!
-Feel free to explore my repositories and reach out for collaboration on DevOps or Cloud projects.
+## 📫 Reach Me At
+- **LinkedIn:** https://linkedin.com/in/aaditya-ranadive  
+- **Email:** *your-email-here*
+
+---
+
+## 🎯 About Me
+Highly motivated Cloud & DevOps Engineer passionate about scalable infrastructure, automation, and cloud-native technologies. Strong foundation in AWS, Kubernetes, Terraform, CI/CD pipelines, and cloud security.
+
+Always learning. Always building.
+
+---
 
